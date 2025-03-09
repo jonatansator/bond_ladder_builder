@@ -29,3 +29,6 @@
   - Displays a bar chart comparing desired vs. matched cash flows
   - Shows the number of bonds in the ladder and total unmet cash flow
 
+## Screenshots
+![output](output.png)
+
